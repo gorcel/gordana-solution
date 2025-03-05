@@ -37,7 +37,7 @@ Test Plan: Klassisches Bausparen (Spartarif)
   • Zero input (should be rejected)
   • Rapid input changes (checking UI glitches or lag) 
 
-5. Enviroment:
+5. Environment:
 - Browser: Chrome v133
 - OS: Windows 10
 
